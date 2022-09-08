@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
@@ -17,7 +16,8 @@
  *
  *        *
  *
- *         *     */
+ *         *  
+    */
 
 
 
@@ -39,6 +39,4 @@ int main(void)
 
 }
 
-Footer
 
-© 2022 GitH
