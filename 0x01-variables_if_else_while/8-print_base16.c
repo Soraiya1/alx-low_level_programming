@@ -18,7 +18,7 @@ if (i > 9)
 putchar(ch);
 ch++;
 i++;
-{
+}
 else
 {
 putchar(i + '0');
