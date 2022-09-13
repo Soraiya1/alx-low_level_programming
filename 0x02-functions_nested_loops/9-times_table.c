@@ -18,7 +18,7 @@ _putchar(48);
 for (i = 1; i < 10; i++)
 {
 result = n * 1;
-_putchar(' , ');
+_putchar(',');
 _putchar(' ');
 if (result < 10)
 {
