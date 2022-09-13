@@ -11,7 +11,7 @@ int test;
 
 if (n > 0)
 {
-_putchar(' + ');
+_putchar('+');
 test = 1;
 }
 else if (n == 0)
@@ -21,7 +21,7 @@ test = 0;
 }
 else if (n < 0)
 {
-_putchar (' - ');
+_putchar ('-');
 test = -1;
 }
 return (test);
