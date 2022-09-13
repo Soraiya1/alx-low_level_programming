@@ -13,7 +13,7 @@ int result;
 
 n = 0;
 while (n < 10)
-i{
+{
 _putchar(48);
 for (i = 1; i < 10; i++)
 {
