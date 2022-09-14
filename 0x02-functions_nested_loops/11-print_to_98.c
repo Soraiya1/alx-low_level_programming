@@ -21,7 +21,7 @@ else
 val--;
 }
 }
-else if((val < 98) || (val == 98))
+else if ((val < 98) || (val == 98))
 {
 while (val <= 98)
 {
